@@ -8,10 +8,8 @@ aplicación de consola en Python que realice operaciones CRUD sobre la BD.
 ## Estructura del repositorio
 ```
 tp3-biblioteca/
-├── src/
-│   └── app.py
-├── db/
-│   └── schema.sql
+├── app.py
+├── schema.sql
 ├── requirements.txt
 └── README.md
 ```
